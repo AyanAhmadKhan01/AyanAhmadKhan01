@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
-- - 🌱 I’m currently learning **Node.js** and **Express.js** 
+- 🌱 I’m currently learning **Node.js** and **Express.js** 
 
 - 👨‍💻 All of my projects are available at [https://ayanahmadkhan01.github.io/Portfolio.io/](https://ayanahmadkhan01.github.io/Portfolio.io/)
 
