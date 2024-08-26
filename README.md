@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **ayanahmadkhan042@gmail.com**
 
-<a href="https://devlegend.vercel.app/"><p>website</p></a>
+[<sub>website</sub>](https://devlegend.vercel.app/)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
