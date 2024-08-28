@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js** and **Express.js** 
 
-- 👨‍💻 All of my projects are available at [https://ayanahmadkhan01.github.io/Portfolio.io/](https://ayanahmadkhan01.github.io/Portfolio.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://devlegend.vercel.app/)
 
 - 📫 How to reach me **ayanahmadkhan042@gmail.com**
 
