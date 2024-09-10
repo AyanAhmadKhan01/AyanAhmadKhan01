@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm DevLegend</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on (Personal Project)
+- 🔭 I’m currently working on CMS
 
 - 👯 I’m looking to collaborate on **exciting projects**
-
-- 🌱 I’m currently learning **Node.js** and **Express.js** 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://devlegend.vercel.app/)
 
