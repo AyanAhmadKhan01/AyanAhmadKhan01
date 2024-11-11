@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DevLegend</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on CMS
+- 🔭 I’m currently working on DreamWallv2
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
